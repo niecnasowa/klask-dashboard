@@ -2,7 +2,7 @@ Hello :)
 
 This is simply app - dashboard that implements Tournament scheme.
 
-I had only few hours to made it so this code presents hackathon quality ... :v
+I had only few hours to made it, so code doesn't have the best quality ... :v
 
 ### To start app
 #### 1. clone repository
